@@ -1,0 +1,2 @@
+* Good Libguide to Data Vis best practices
+https://research.lib.buffalo.edu/dataviz/home
